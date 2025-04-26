@@ -1,0 +1,15 @@
+[submodule "ur-updater-mann-mastered"]
+	path = ur-updater-mann-mastered
+	url = https://github.com/UltimaRobotics/ur-updater-mann-mastered.git
+[submodule "ur-restrack-mastered"]
+	path = ur-restrack-mastered
+	url = https://github.com/UltimaRobotics/ur-restrack-mastered.git
+[submodule "ur-netresource-mastered"]
+	path = ur-netresource-mastered
+	url = https://github.com/UltimaRobotics/ur-netresource-mastered.git
+[submodule "ur-netmann-mastered"]
+	path = ur-netmann-mastered
+	url = https://github.com/UltimaRobotics/ur-netmann-mastered.git
+[submodule "ur-rpc-mastered"]
+	path = ur-rpc-mastered
+	url = https://github.com/UltimaRobotics/ur-rpc-mastered.git
